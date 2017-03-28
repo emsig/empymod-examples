@@ -1,9 +1,9 @@
 # Examples, tests, benchmarks and profiling of [empymod](https://github.com/prisae/empymod).
 
 More examples can be found in the
-[prisae/empymod-articles/Geophysics2017/notebooks](https://github.com/prisae/empymod-articles/Geophysics2017/notebooks)
+[../empymod-articles/Geophysics2017/notebooks](https://github.com/prisae/empymod-articles/Geophysics2017/notebooks)
 and in the
-[prisae/empymod-articles/TheLeadingEdge2017](https://github.com/prisae/empymod-articles/TheLeadingEdge2017) repositories.
+[../empymod-articles/TheLeadingEdge2017](https://github.com/prisae/empymod-articles/TheLeadingEdge2017) repositories.
 
 ## Examples
 
