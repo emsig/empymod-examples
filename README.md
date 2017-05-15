@@ -11,6 +11,10 @@
 * [TLE2017_examples](./TLE2017_examples.ipynb): 8 frequency- and time-domain
   examples, originally published in *The Leading Edge, April 2017*; see
   [empymod-tle2017](https://github.com/prisae/empymod-tle2017).
+* [Halfspace-Dipole_comparison](./Halfspace-Dipole_comparison.ipynb):
+  Comparison of `kernel.halfspace` with `dipole` for half- and fullspaces;
+  in the case of fullspace `dipole` uses internally `kernel.fullspace`
+  (`xdirect=True`)
 * [Benchmark](./Benchmark.ipynb): Example benchmark to check which method is
    best for a given problem.
 
