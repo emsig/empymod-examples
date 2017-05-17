@@ -15,6 +15,9 @@
   Comparison of `kernel.halfspace` with `dipole` for half- and fullspaces;
   in the case of fullspace `dipole` uses internally `kernel.fullspace`
   (`xdirect=True`)
+* [Full-Diffusive_comparison](./Full-Diffusive_comparison.ipynb):
+  Comparison of the diffusive with the full wavefield
+  full-space solutions.
 * [Benchmark](./Benchmark.ipynb): Example benchmark to check which method is
    best for a given problem.
 
