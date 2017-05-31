@@ -23,6 +23,4 @@
 
 ## Developing
 
-* [Comparing](./Comparing.ipynb): Comparing results of current version of
-  `empymod` with previously generated data.
 * [Profiling](./Profiling.ipynb): Example for profiling the code.
