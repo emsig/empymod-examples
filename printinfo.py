@@ -19,11 +19,12 @@ import empymod
 import matplotlib
 from IPython.display import HTML
 
+
 def info():
     """Print date and version information as a html-table."""
 
     # Define styles
-    style1 = " style='width: 20%; border: 2px solid #fff;'"
+    style1 = " style='border: 2px solid #fff; text-align: left;'"
     style2 = " style='background-color: #ccc;"
     style2 += "width: 10%; border: 2px solid #fff;'"
 
