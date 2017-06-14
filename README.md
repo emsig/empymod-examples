@@ -33,6 +33,13 @@
   Edge, April 2017*; see
   [article-tle2017](https://github.com/empymod/article-tle2017).
 
+* See [article-geo2017](https://github.com/empymod/article-geo2017) (in
+  the `notebooks`-folder) for:
+    * Comparison to analytical solution
+    * FHT filter comparison
+    * GPR example
+    * Time-domain example
+
 
 ## 5. Reproducing published results
 
