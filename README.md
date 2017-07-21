@@ -15,6 +15,10 @@
 * [2a_Time_Step-and-Impulse](./2a_Time_Step-and-Impulse.ipynb):  
   Comparison of QWE, FHT, FFTLog, and FFT for frequency-to-time transformation.
 
+* [2b_DC_rho-a_Dipole-Dipole](./2b_DC_rho-a_Dipole-Dipole.ipynb):  
+  Example of DC apparent resistivity calculation for the dipole-dipole
+  arrangement.
+
 
 ## 3. Comparison to analytical solution
 
