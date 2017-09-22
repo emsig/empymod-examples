@@ -6,8 +6,12 @@
 * [1a_Frequency_Single-and-Crossplot](./1a_Frequency_Single-and-Crossplot.ipynb)  
   Frequency example, for a single frequency and crossplot frequency vs offset.
 
-* [1b_Frequency_Dipole-vs-Bipole.ipynb](./1b_Frequency_Dipole-vs-Bipole.ipynb)  
+* [1b_Frequency_Dipole-vs-Bipole](./1b_Frequency_Dipole-vs-Bipole.ipynb)  
   Comparison of a 800 m long bipole with a dipole at its centre.
+
+* [1c_TMTE-split](./1c_TMTE-split.ipynb)  
+  Contributions of up- and downgoing TM- and TE-modes. (Requires
+  `empyscripts`.)
 
 
 ## 2. Time-domain examples
