@@ -42,11 +42,17 @@
   [article-tle2017](https://github.com/empymod/article-tle2017).
 
 * See [article-geo2017](https://github.com/empymod/article-geo2017) (in
-  the `notebooks`-folder) for:
+  the `notebooks`-directory) for:
     * Comparison to analytical solution
     * FHT filter comparison
     * GPR example
     * Time-domain example
+
+* See [article-fdesign](https://github.com/empymod/article-fdesign) (in
+  the `notebooks`-directory) for:
+    * Examples regarding the design of digital filters for the Hankel and
+      Fourier transforms
+    * GPR example with a digital filter
 
 
 ## 5. Reproducing published results
