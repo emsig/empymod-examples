@@ -1,5 +1,60 @@
 # Examples for [empymod](https://github.com/empymod/empymod)
 
+[[Published results](#published-results-in-other-repositories)]
+[[1. Frequency-domain examples](#user-content-1-frequency-domain-examples)]
+[[2. Time-domain examples](#user-content-2-time-domain-examples)]
+[[3. Comparison to analytical solution](#user-content-3-comparison-to-analytical-solution)]
+[[4. Add-ons](#user-content-4-add-ons)]
+[[5. Reproducing published results](#user-content-5-reproducing-published-results)]
+[[6. Tools](#user-content-6-tools)]
+
+## Published results in other repositories
+
+* See [article-tle2017](https://github.com/empymod/article-tle2017) for:
+
+  > Werthmüller, D., 2017, Getting started with controlled-source
+  > electromagnetic 1D modeling: The Leading Edge, 36, 352-355;
+  > doi: [10.1190/tle36040352.1](http://dx.doi.org/10.1190/tle36040352.1).
+
+  Contains 2 notebooks with eight frequency- and time-domain examples.
+
+
+* See [article-geo2017](https://github.com/empymod/article-geo2017) (in
+  the `notebooks`-directory) for:
+
+  > Werthmüller, D., 2017, An open-source full 3D electromagnetic modeler for
+  > 1D VTI media in Python: empymod: Geophysics, 82(6), WB9-WB19; DOI:
+  > [10.1190/geo2016-0626.1](http://doi.org/10.1190/geo2016-0626.1).
+
+  Contains:
+    * Comparison to analytical solution
+    * FHT filter comparison
+    * GPR example
+    * Time-domain example
+
+
+* See [article-fdesign](https://github.com/empymod/article-fdesign) (in the
+  `notebooks`-directory) for:
+
+  > Werthmüller, D., K. Key, and E. Slob, 2018, A tool for designing digital
+  > filters for the Hankel and Fourier transforms in potential, diffusive, and
+  > wavefield modeling: Submitted to Geophysics.
+
+  Contains:
+    * Examples regarding the design of digital filters for the Hankel and
+      Fourier transforms
+    * GPR example with a digital filter
+
+
+* See
+  [csem-ziolkowski-and-slob](https://github.com/empymod/csem-ziolkowski-and-slob)
+  for:
+
+  > Ziolkowski, A., and E. Slob, 2018, Introduction to Controlled-Source
+  > Electromagnetic Methods: Cambridge University Press.
+
+  Contains all numerical examples of the book, 61 in total, frequency- and
+  time-domain.
 
 ## 1. Frequency-domain examples
 
@@ -8,10 +63,6 @@
 
 * [1b_Frequency_Dipole-vs-Bipole](./1b_Frequency_Dipole-vs-Bipole.ipynb)  
   Comparison of a 800 m long bipole with a dipole at its centre.
-
-* [1c_TMTE-split](./1c_TMTE-split.ipynb)  
-  Contributions of up- and downgoing TM- and TE-modes. (Requires
-  `empyscripts`.)
 
 
 ## 2. Time-domain examples
@@ -33,26 +84,13 @@
 * [3b_Halfspace-Dipole_comparison](./3b_Halfspace-Dipole_comparison.ipynb)  
   Comparison of `analytical` with `dipole` for half- and fullspaces.
 
+## 4. Add-ons `empyscripts`
 
-## 4. Published results
+* [4a_TMTE-split](./4a_TMTE-split.ipynb)  
+  Contributions of up- and downgoing TM- and TE-modes.
 
-* [4a_TLE2017_examples](./4a_TLE2017_examples.ipynb)  
-  8 frequency- and time-domain examples, originally published in *The Leading
-  Edge, April 2017*; see
-  [article-tle2017](https://github.com/empymod/article-tle2017).
-
-* See [article-geo2017](https://github.com/empymod/article-geo2017) (in
-  the `notebooks`-directory) for:
-    * Comparison to analytical solution
-    * FHT filter comparison
-    * GPR example
-    * Time-domain example
-
-* See [article-fdesign](https://github.com/empymod/article-fdesign) (in
-  the `notebooks`-directory) for:
-    * Examples regarding the design of digital filters for the Hankel and
-      Fourier transforms
-    * GPR example with a digital filter
+* [4b_Digital-Linear-Filter_design](./4b_Digital-Linear-Filter_design.ipynb)  
+  Design a Digital Linear Filter (DLF) for the Hankel transform.
 
 
 ## 5. Reproducing published results
