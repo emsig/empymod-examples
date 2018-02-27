@@ -1,14 +1,14 @@
 # Examples for [empymod](https://github.com/empymod/empymod)
 
-- [Published results](#published-results-in-other-repositories)
-- [1. Frequency-domain examples](#user-content-1-frequency-domain-examples)
-- [2. Time-domain examples](#user-content-2-time-domain-examples)
-- [3. Comparison to analytical solution](#user-content-3-comparison-to-analytical-solution)
-- [4. Add-ons (empyscripts)](#user-content-4-add-ons-empyscripts)
-- [5. Reproducing published results](#user-content-5-reproducing-published-results)
-- [6. Tools](#user-content-6-tools)
+0. [Published results](#user-content-0-published-results-in-other-repositories)
+1. [Frequency-domain examples](#user-content-1-frequency-domain-examples)
+2. [Time-domain examples](#user-content-2-time-domain-examples)
+3. [Comparison to analytical solution](#user-content-3-comparison-to-analytical-solution)
+4. [Add-ons (empyscripts)](#user-content-4-add-ons-empyscripts)
+5. [Reproducing published results](#user-content-5-reproducing-published-results)
+6. [Tools](#user-content-6-tools)
 
-## Published results in other repositories
+## 0. Published results in other repositories
 
 * See [article-tle2017](https://github.com/empymod/article-tle2017) for:
 
