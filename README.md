@@ -105,3 +105,8 @@
 
 * [6b_Profiling](./6b_Profiling.ipynb)  
   Example for profiling the code.
+
+
+## 7. Explanations and educational material
+* [7a_DLF-Standard-Lagged-Splined](./7a_DLF-Standard-Lagged-Splined.ipynb)  
+  Graphical explanation of the different optimisation methods for the DLF.
