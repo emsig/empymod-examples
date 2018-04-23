@@ -7,6 +7,7 @@
 4. [Add-ons (empyscripts)](#user-content-4-add-ons-empyscripts)
 5. [Reproducing published results](#user-content-5-reproducing-published-results)
 6. [Tools](#user-content-6-tools)
+7. [Explanations and educational material](#user-content-7-explanations-and-educational-material)
 
 ## 0. Published results in other repositories
 
