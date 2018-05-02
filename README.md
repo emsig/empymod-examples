@@ -65,6 +65,8 @@
 * [1b_Frequency_Dipole-vs-Bipole](./1b_Frequency_Dipole-vs-Bipole.ipynb)  
   Comparison of a 800 m long bipole with a dipole at its centre.
 
+* [1c_Comparison_of_Source-Receiver_Combinations](./1c_Comparison_of_Source-Receiver_Combinations.ipynb)  
+  Comparison of all source-receiver combinations; electric and magnetic.
 
 ## 2. Time-domain examples
 
