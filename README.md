@@ -4,7 +4,7 @@
 1. [Frequency-domain examples](#user-content-1-frequency-domain-examples)
 2. [Time-domain examples](#user-content-2-time-domain-examples)
 3. [Comparison to analytical solution](#user-content-3-comparison-to-analytical-solution)
-4. [Add-ons (empyscripts)](#user-content-4-add-ons-empyscripts)
+4. [Add-ons](#user-content-4-add-ons)
 5. [Reproducing published results](#user-content-5-reproducing-published-results)
 6. [Tools](#user-content-6-tools)
 7. [Explanations and educational material](#user-content-7-explanations-and-educational-material)
@@ -87,7 +87,7 @@
 * [3b_Halfspace-Dipole_comparison](./3b_Halfspace-Dipole_comparison.ipynb)  
   Comparison of `analytical` with `dipole` for half- and fullspaces.
 
-## 4. Add-ons `empyscripts`
+## 4. Add-ons
 
 * [4a_TMTE-split](./4a_TMTE-split.ipynb)  
   Contributions of up- and downgoing TM- and TE-modes.
