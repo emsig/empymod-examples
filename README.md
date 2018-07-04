@@ -77,6 +77,10 @@
   Example of DC apparent resistivity calculation for the dipole-dipole
   arrangement.
 
+* [2c_Note_regarding_land_CSEM](./2c_Note_regarding_land_CSEM.ipynb):  
+  A note on how to improve the result for land CSEM (source and receiver
+  located at the interface between air and subsurface).
+
 
 ## 3. Comparison to analytical solution
 
