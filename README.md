@@ -70,14 +70,14 @@
 
 ## 2. Time-domain examples
 
-* [2a_Time_Step-and-Impulse](./2a_Time_Step-and-Impulse.ipynb):  
+* [2a_Time_Step-and-Impulse](./2a_Time_Step-and-Impulse.ipynb)  
   Comparison of QWE, FHT, FFTLog, and FFT for frequency-to-time transformation.
 
-* [2b_DC_rho-a_Dipole-Dipole](./2b_DC_rho-a_Dipole-Dipole.ipynb):  
+* [2b_DC_rho-a_Dipole-Dipole](./2b_DC_rho-a_Dipole-Dipole.ipynb)  
   Example of DC apparent resistivity calculation for the dipole-dipole
   arrangement.
 
-* [2c_Note_regarding_land_CSEM](./2c_Note_regarding_land_CSEM.ipynb):  
+* [2c_Note_regarding_land_CSEM](./2c_Note_regarding_land_CSEM.ipynb)  
   A note on how to improve the result for land CSEM (source and receiver
   located at the interface between air and subsurface).
 
@@ -102,7 +102,7 @@
 
 ## 5. Reproducing published results
 
-* [5a_CSEM](./5a_CSEM.ipynb):  
+* [5a_CSEM](./5a_CSEM.ipynb)  
   So far: Constable and Weiss (2006); Ziolkowski et al. (2007).
 
 
