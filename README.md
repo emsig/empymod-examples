@@ -81,6 +81,11 @@
   A note on how to improve the result for land CSEM (source and receiver
   located at the interface between air and subsurface).
 
+* [2d_Cole-Cole_IP](./2d_Cole-Cole_IP.ipynb)  
+  How to define a cole-cole model to calculate IP.
+  *Work in progress, not working with stable release of empymod, branch
+  cole-cole is required for it.*
+
 
 ## 3. Comparison to analytical solution
 
