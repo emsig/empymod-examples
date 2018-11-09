@@ -51,8 +51,8 @@
   [csem-ziolkowski-and-slob](https://github.com/empymod/csem-ziolkowski-and-slob)
   for:
 
-  > Ziolkowski, A., and E. Slob, 2018, Introduction to Controlled-Source
-  > Electromagnetic Methods: Cambridge University Press.
+  > Ziolkowski, A., and E. Slob, 2019, Introduction to Controlled-Source
+  > Electromagnetic Methods: Cambridge University Press; ISBN: 9781107058620.
 
   Contains all numerical examples of the book, 61 in total, frequency- and
   time-domain.
