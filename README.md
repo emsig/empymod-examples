@@ -52,7 +52,8 @@
   for:
 
   > Ziolkowski, A., and E. Slob, 2019, Introduction to Controlled-Source
-  > Electromagnetic Methods: Cambridge University Press; ISBN: 9781107058620.
+  > Electromagnetic Methods: Cambridge University Press; ISBN
+  > [9781107058620](https://www.cambridge.org/9781107058620).
 
   Contains all numerical examples of the book, 61 in total, frequency- and
   time-domain.
