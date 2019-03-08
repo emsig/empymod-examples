@@ -39,7 +39,8 @@
 
   > Werthmüller, D., K. Key, and E. Slob, 2018, A tool for designing digital
   > filters for the Hankel and Fourier transforms in potential, diffusive, and
-  > wavefield modeling: Submitted to Geophysics.
+  > wavefield modeling:  Geophysics, 84(2), F47-F56; DOI:
+  > [10.1190/geo2018-0069.1](http://doi.org/10.1190/geo2018-0069.1).
 
   Contains:
     * Examples regarding the design of digital filters for the Hankel and
