@@ -59,6 +59,7 @@
   Contains all numerical examples of the book, 61 in total, frequency- and
   time-domain.
 
+
 ## 1. Frequency-domain examples
 
 * [1a_Frequency_Single-and-Crossplot](./1a_Frequency_Single-and-Crossplot.ipynb)  
@@ -69,6 +70,7 @@
 
 * [1c_Comparison_of_Source-Receiver_Combinations](./1c_Comparison_of_Source-Receiver_Combinations.ipynb)  
   Comparison of all source-receiver combinations; electric and magnetic.
+
 
 ## 2. Time-domain examples
 
@@ -85,8 +87,6 @@
 
 * [2d_Cole-Cole_IP](./2d_Cole-Cole_IP.ipynb)  
   How to define a cole-cole model to calculate IP.
-  *Work in progress, not working with stable release of empymod, branch
-  cole-cole is required for it.*
 
 
 ## 3. Comparison to analytical solution
@@ -97,6 +97,7 @@
 
 * [3b_Halfspace-Dipole_comparison](./3b_Halfspace-Dipole_comparison.ipynb)  
   Comparison of `analytical` with `dipole` for half- and fullspaces.
+
 
 ## 4. Add-ons
 
