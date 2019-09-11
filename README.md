@@ -88,6 +88,9 @@
 * [2d_Cole-Cole_IP](./2d_Cole-Cole_IP.ipynb)  
   How to define a cole-cole model to calculate IP.
 
+* [2e_Using_empymod_transforms_with_other_modellers](./2e_Using_empymod_transforms_with_other_modellers.ipynb)  
+  How to use the transform utilities with other modellers.
+
 
 ## 3. Comparison to analytical solution
 
