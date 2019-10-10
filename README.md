@@ -116,6 +116,9 @@
 * [5a_CSEM](./5a_CSEM.ipynb)  
   So far: Constable and Weiss (2006); Ziolkowski et al. (2007).
 
+* [5b_TEM](./5b_TEM.ipynb)  
+  So far: Ward and Hohmann (1988).
+
 
 ## 6. Tools
 * [6a_Benchmark](./6a_Benchmark.ipynb)  
