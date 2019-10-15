@@ -116,7 +116,7 @@
 * [5a_CSEM](./5a_CSEM.ipynb)  
   So far: Constable and Weiss (2006); Ziolkowski et al. (2007).
 
-* [5b_TEM](./5b_TEM.ipynb)  
+* [5b_FEM_TEM](./5b_FEM_TEM.ipynb)  
   So far: Ward and Hohmann (1988).
 
 
