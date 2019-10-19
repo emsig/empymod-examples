@@ -131,3 +131,6 @@
 ## 7. Explanations and educational material
 * [7a_DLF-Standard-Lagged-Splined](./7a_DLF-Standard-Lagged-Splined.ipynb)  
   Graphical explanation of the different optimisation methods for the DLF.
+
+* [7b_Dipoles_and_Loops](./7b_Dipoles_and_Loops.ipynb)  
+  Difference between magnetic dipole and loop sources.
