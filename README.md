@@ -1,3 +1,5 @@
+# Outdated and archived; examples moved to the manual. See https://empymod.readthedocs.io/en/stable/examples.
+
 # Examples for [empymod](https://github.com/empymod/empymod)
 
 0. [Published results](#user-content-0-published-results-in-other-repositories)
